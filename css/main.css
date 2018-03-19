@@ -1,0 +1,22 @@
+img{
+	height:150px;
+	width:150px;
+}
+a{
+	padding:20px;
+}
+h3{
+	border:1px solid grey;
+	padding:5px;
+}
+a{
+	padding-bottom: 20px;
+}
+footer{
+	text-align: center;
+	background-color: grey;
+	padding:20px;
+}
+.drop:after {
+  transition: 50s;
+}
