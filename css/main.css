@@ -12,11 +12,9 @@ h3{
 a{
 	padding-bottom: 20px;
 }
-footer{
-	text-align: center;
-	background-color: grey;
-	padding:20px;
-}
 .drop:after {
   transition: 50s;
+}
+.row1{
+	background-color:grey; 
 }
