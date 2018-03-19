@@ -18,3 +18,9 @@ a{
 .row1{
 	background-color:grey; 
 }
+@media only screen and (max-width: 600px) {
+    .row h3 {
+        text-align:center;
+        margin-left:322px;"
+    }
+}
